@@ -4,5 +4,5 @@
 - 👯 I’m looking to collaborate on Front-End development.
 - 📫 How to reach me: Shahofarivar.ir
 - ⚡ Interests: Blockchain, Game Development.
-- - 😄 My skills: [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react)](https://skillicons.dev)
+- - 😄 My skills: [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react)](https://skillicons.dev)
 
